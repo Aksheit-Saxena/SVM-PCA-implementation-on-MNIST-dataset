@@ -8,6 +8,9 @@ Task 2 : Fitting the MNSIT digits to SVM classifier
 Task 3:Perform a comparative study by trying out various combinations of the following:
 
    • Kernels: use linear, polynomial, and radial basis function kernel.
+   
    • C: test out C = {0.1,1,10,100}
+   
    • Gamma: (not applicable for linear kernel) test out γ = {1,0.1,0.01,0.001}
+   
    For each of the kernels, find out the best combination of hyper-parameters: C and γ (grid search).
