@@ -15,9 +15,7 @@ Task 3:Perform a comparative study by trying out various combinations of the fol
     
    For each of the kernels, find out the best combination of hyper-parameters: C and γ (grid search).
 
-Task 4: Evaluate the performance of the model on the test set and report the accuracy, precision,
-
- recall, and F1 score using the metrics module in Scikit Learn
+Task 4: Evaluate the performance of the model on the test set and report the accuracy, precision, recall, and F1 score using the metrics module in Scikit Learn
  
 
  Task 5: Plot the performance metrics (macro averaged accuracy, precision, recall, and F1 score) with
